@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "get.mjs",
   "scripts": {
-    "start":node "get.mjs",
-    "dev":nodemon "get.mjs"
+    "start":"node get.mjs",
+    "dev":"nodemon get.mjs"
   },
   "keywords": [],
   "author": "",

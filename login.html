@@ -62,7 +62,7 @@
         const userid = document.getElementById("userid").value;
         const userpw = document.getElementById("userpw").value;
         fetch(
-          `http://127.0.0.1:3000/login?userid=${encodeURIComponent(
+          `/login?userid=${encodeURIComponent(
             userid
           )}&userpw=${encodeURIComponent(userpw)}`
         )

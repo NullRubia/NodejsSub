@@ -1,7 +1,7 @@
 {
   "name": "nodejs",
   "version": "1.0.0",
-  "main": "get.mjs",
+  "main": "index.js",
   "scripts": {
     "start": "node get.mjs",
     "dev": "nodemon get.mjs"

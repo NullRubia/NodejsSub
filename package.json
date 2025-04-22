@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "get.mjs",
   "scripts": {
-    "start": "node 6_json.js",
-    "dev": "nodemon 10_get.mjs"
+    "start": "get.mjs",
+    "dev": "get.mjs"
   },
   "keywords": [],
   "author": "",
